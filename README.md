@@ -2,7 +2,7 @@
 
 To earn attendance credit for this workshop, you must:
 - Create a personal branch of this repo
-- Create a new text file called `names.txt`
+- Create a new markdown file
 - Add your name to the file
 - Create a pull request with your changes to the `main` branch
 
